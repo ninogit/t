@@ -42,4 +42,11 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 # PyBuilder
+
 .idea
+
+target/
+*.DS_Store
+
+
+
