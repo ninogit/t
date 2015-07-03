@@ -7,6 +7,7 @@ from django.forms.models import model_to_dict
 
 
 
+
 # Create your views here.
 
 def find_product(request):
